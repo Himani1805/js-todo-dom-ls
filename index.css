@@ -1,0 +1,22 @@
+body{
+    font-family: Open Sans;
+    line-height: 26px;
+}
+h1{
+    color: #4772A6;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Courier;
+    font-weight: 900;
+}
+#button{
+    background-color: #2B619E;
+    color: white;
+    padding: 3px 40px;
+}
+#blue{
+    background-color: #0368AB;
+    color: white;
+    padding: 80px 80px;
+}
