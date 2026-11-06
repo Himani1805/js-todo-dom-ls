@@ -9,9 +9,9 @@ Experience sets the role. More than 5 years is Senior, 2 to 5 years is Junior, a
 From this folder, run:
 
 ```bash
-npx --yes serve -l 5502 .
+npx --yes serve -l 5000 .
 ```
 
-This starts a small local server. Then open http://localhost:5502/ .
+This starts a small local server. Then open http://localhost:5000/ .
 
 You can also open `index.html` directly in a browser.
